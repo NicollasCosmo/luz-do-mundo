@@ -1,0 +1,10 @@
+.rodape {
+    background-color:rgb(24, 40, 88);
+    color: white;
+    padding: 0.2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: .5rem;
+}
+
