@@ -40,7 +40,7 @@ export default function Post() {
 
                     <PostModelo
 
-                        fotoCapa={`/assets/posts/${post.id}/capa.png`} //Importa o componente PostModelo e coloca as props
+                        fotoCapa={`/assets/posts/${post.id}/bg.png`} //Importa o componente PostModelo e coloca as props com o caminho da imagem usada como background
                         titulo={post.titulo}
                     >
                         <div className="post-markdown-container">
