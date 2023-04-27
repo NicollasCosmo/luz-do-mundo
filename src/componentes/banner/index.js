@@ -12,7 +12,7 @@ export default function Banner() {
 
                 </h1>
                 <p>
-                    Bem vindoa este espaço onde você irá encontrar muito alimento para sua alma através de estudos da palavra de Deus. Eles serão com luz para seu caminho.
+                    Bem vindo a este espaço onde você irá encontrar muito alimento para sua alma através de estudos da palavra de Deus. Eles serão como luz para seu caminho.
                 </p>
 
             </div>
